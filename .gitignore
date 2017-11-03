@@ -1,0 +1,5 @@
+fun
+*.o
+*.a
+libgofun.h
+.DS_Store
